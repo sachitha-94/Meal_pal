@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Meal Pal</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="title">CALORIE METER</string>
+    <string name="age">Age</string>
+    <string name="sex">Sex</string>
+    <string name="weight">Weight</string>
+    <string name="height">Height</string>
+    <string name="activity">Activity</string>
+    <string-array name="spinner_weight">
+        <item>Pounds</item>
+        <item>Kgs</item>
+    </string-array>
+    <string-array name="spinner_duration">
+        <item>Weeks</item>
+        <item>Months</item>
+        <item>Years</item>
+    </string-array>
+    <string-array name="height_feet">
+        <item>Feets</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+    <string-array name="height_inches">
+        <item>Inches</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+    </string-array>
+    <string-array name="spinner_activity">
+        <item>Select Activity</item>
+        <item>Sedentary (little or no exercise)</item>
+        <item>Lightly active (light exercise 1-3 days/week)</item>
+        <item>Moderate active (mod exercise 3-5 days/week)</item>
+        <item>Very active (hard exercise 6-7 days a week)</item>
+        <item>Extra active (very hard exercise or 2x training)</item>
+    </string-array>
+    <string name="title_activity_second">CalorieRequirement</string>
+    <string name="home">Back</string>
+    <string name="back">Home</string>
+    <string name="title_activity_third">CalorieRequirement</string>
+    <string name="title_activity_first">CalorieMeter</string>
+    <string name="title_activity_fourth">IdealWeight</string>
+    <string name="title_activity_fifth">CalorieBurn</string>
+    <string-array name="spinner_activity_types">
+        <item>Select Activity Type</item>
+        <item>Gym Activities</item>
+        <item>Training and Sport Activities</item>
+        <item>Outdoor Activities</item>
+        <item>Home and Daily Life Activities</item>
+        <item>Sexual Activities</item>
+    </string-array>
+    <string-array name="spinner_time_duration">
+        <item>Minutes</item>
+        <item>Hours</item>
+    </string-array>
+    <string name="title_activity_last">CalorieBurn</string>
+</resources>
